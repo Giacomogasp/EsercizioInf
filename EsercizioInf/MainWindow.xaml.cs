@@ -26,7 +26,7 @@ namespace GestionePrestito
             InitializeComponent();
             cmb_Residenza.Items.Add("Montepulciano");
             cmb_Residenza.Items.Add("Napoli");
-            cmb_Residenza.Items.Add("Castiglione del Lag");
+            cmb_Residenza.Items.Add("Castiglione del Lago");
             cmb_Residenza.Items.Add("Venezia");
             cmb_Residenza.Items.Add("Baltimora");
             cmb_Residenza.Items.Add("Palm Beach");
